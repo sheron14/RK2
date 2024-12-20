@@ -4,7 +4,7 @@
 
 using namespace std;
 
-string binarySum(const string& a, const string& b) {
+string binarySum( string a,  string b) {
     string result;
     int carry = 0;
     int aLen = a.length();
