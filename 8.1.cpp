@@ -4,7 +4,6 @@
 
 using namespace std;
 
-// Функция для сложения двоичных строк
 string binarySum(const string& a, const string& b) {
     string result;
     int carry = 0;
